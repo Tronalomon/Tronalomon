@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Tate",
+  "age": 21,
+  "address": {
+    "street": "Gippep Street",
+    "city": "Sulcekro",
+    "state": "LA",
+    "zip": "39970"
+  },
+  "contact": {
+    "phone": "(578) 518-1710",
+    "servicePhone": "800853277"
+  },
+  "birthday": "1990-02-06T03:29:57.719Z",
+  "ip": "153.228.30.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Joj biowe hajni kut rivhib cikar jamerwun dosfatkam sisejun kudon rowag jec fiil fut gonu fikolkew. Joc loegfe dal civ vete boujhis vejbu ulakajak kebtouza dage tewtonjun ge wame gawsah vutfig avurijelo. Ho celfe vuc makezu dapvu guso ifka epa iveca daoj ipeh jallur ceive epdodgas mej. Okicejag eb gidohu afa basfi dezuveco bu aj pujtab parmorwe fagi za fuag ler ceze vatsiowu funcecwik.",
+    "bio": "Kud heaniaj zez igsa zaimitum ilucoule rovuc riwkac zagmoj tujembuh wifjutvaj logcog girom uj pecmu. Ew wel fosriri mutazo kit digcobmu ina sarraso kes faro sadama cuf omujabec wiboawa ji lof ahu. Pu zempaj cowpamcug virso eslikno heonud pegatki lules agzi vipra mowtela uli gufi urcacfuk sipet cecwuco wakub goftolun. Wi cucelkat az wodpori hikraka upaseno ele wopu ap kotu jupge ime. Tu oviiphav pi iwhah asre rid wogwum cecfillu pakfodef gaguswep uwoc wa."
+  },
+  "apiKey": "2c23c9f6d4213d44e493fa2b943e5188a41316b301e4deffa8ae0809d53131ad",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
