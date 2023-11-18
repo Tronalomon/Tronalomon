@@ -1,0 +1,26 @@
+{
+  "name": "Paul Gomez",
+  "age": 43,
+  "address": {
+    "street": "Esegi Key",
+    "city": "Gifejo",
+    "state": "FL",
+    "zip": "26480"
+  },
+  "contact": {
+    "phone": "(378) 732-5439",
+    "servicePhone": "800274542"
+  },
+  "birthday": "1961-02-15T23:46:46.787Z",
+  "ip": "17.8.142.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Biti cito daj we tuka dizaeb hol su laalifih mevoduda vivopzuh im mum liga dun da. La bizzuzuhu coh ruv kuzem oga kulujfuf ivepu kib awak azsemtoz heakore gifief nom utotigu ga. Bibo was pop faf jazit vik mud nizazuc habaso baeso vudmugil ciczapege ja fobifa it tenice kin ovefokuz.",
+    "bio": "Tudkavoh idugo ufa meggefrev neheoh tuoz avurufmu ezsalceh ped dawwebbuh hubuw fasmow gin rimtuje ino. Gedazlop to zekko paw kavduppe tozizfob webdu kugide ic kefmipe fit ajem cotji to sukvevoji. Ahel ujbek avpidpib huej zaeh wijkavnu var gace caofpe gohovwi zuresi vowomnuh."
+  },
+  "apiKey": "23ad24f6200019366edf74b66dfeb5fb1cdf9c37d58a9233acb76f36b5e8efda",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
