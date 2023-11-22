@@ -1,0 +1,26 @@
+{
+  "name": "Dale Osborne",
+  "age": 39,
+  "address": {
+    "street": "Jarsuv Plaza",
+    "city": "Lohumel",
+    "state": "ND",
+    "zip": "54619"
+  },
+  "contact": {
+    "phone": "(220) 703-1164",
+    "servicePhone": "800686339"
+  },
+  "birthday": "1981-05-20T11:35:34.255Z",
+  "ip": "147.1.26.139",
+  "foo": "bar",
+  "profile": {
+    "about": "El vuow cutiate jo jo lonaal ugu boowcof dombogtu wemdara reab in. Gegtifuwe tugo ladsiza pagel he zowduzmu hepe ho jekhipko ka cicfobpu lafco. Jetemi omwis vorki tib be ni posaz sawolni ti ke neuvuso fi awsipo leov mofkor.",
+    "bio": "Jifkajgip gosoije puko we kigne kevu elhe hizijni buh bomwa ebnucehi eguvu nus kophi kethet ife zijuhcu. Kulwihhen berkuvic ro hemot bolcav ra do ofu ez ri wa hubbel. To lec nahcifse veka dolpadzid bub raza as ra inenevpel hadcew zad haopean roavi bijhamviz rik. Dilhiisa ub do kome inzam jon dudawe iksurdiw zo di huz wut liw. Faz fowuztaz udi jodipoafu ki lec obsehkuf tefnafu onjiroc madinuz vajisu gadgure ji rabo."
+  },
+  "apiKey": "22ca9564c8acc061ef25f8820a38504828a5d1382a30721ec01a236943cd249b",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
