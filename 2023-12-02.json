@@ -1,0 +1,26 @@
+{
+  "name": "Brett Vega",
+  "age": 18,
+  "address": {
+    "street": "Hora Highway",
+    "city": "Wucfapu",
+    "state": "MS",
+    "zip": "96753"
+  },
+  "contact": {
+    "phone": "(516) 500-1581",
+    "servicePhone": "800425581"
+  },
+  "birthday": "1995-04-24T16:15:39.335Z",
+  "ip": "50.182.211.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Rozi gim hez ohehaftev rasgok ela akakeliv gidmimor ofewoblet zab iru it virnojhe vov gihmuzep dakbop. Pur hihaabi fenosru ta iki hovit pihgevwe iba juztu la rijvot ajedivgoj ewnufgo wuhvot lar toc bizsa. Dopisban atzetlus peg voepju rom fetbezaz bu gemadu faw gocoz kewiroora togac podoci rutiroru tif oluc mulur bu.",
+    "bio": "Woritvi besso wowaho binzo paip hormi ecfengip filelu owuvuuvo riocacel geviv kaolja. Afabukha musron mu diwepdij se nasu umuku tin cah kedifag bohnikaja iheim hedivbar lo ifu kudte gevcata. Zilho mi nat jawgu tadidig duzupcaw if vomosa hik ke bav ime hilzec."
+  },
+  "apiKey": "df00f03d22b009cc52698f9f59daca31c7c876cecbbf4566154530bff1212ed7",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
