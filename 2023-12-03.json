@@ -1,0 +1,26 @@
+{
+  "name": "Ella Flores",
+  "age": 50,
+  "address": {
+    "street": "Sanise Highway",
+    "city": "Bagteti",
+    "state": "NE",
+    "zip": "24502"
+  },
+  "contact": {
+    "phone": "(235) 520-1210",
+    "servicePhone": "800755122"
+  },
+  "birthday": "1995-02-06T18:32:53.231Z",
+  "ip": "18.224.6.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiz eb ogawo juwam or ke pisuani mabam nucaubu zumuzta rog eteci dom vuwomi buf zapukgo. Bubok nob bozaf bakmiehu na biji anihin foate cudmo or todferhaw johevu. Nonciura few moj bec icazas lefhaz bejehjev ede dulu hun ewe saf sebucda kav usosi beif senanuw. Putab tafigrel vicza hiaz nooto era wi ejaluge sejdokec zorifag cukidese zef wamov poini vugtap hinap.",
+    "bio": "Okoja ca igo gebabvar ziguw doehe red jeg erahil deehi wefedotal moc lorbaiwo. Pefam anbur caz nofi hucuvlob roultek upo wihlas napbif rafbidpa me otuleg. Lo nehilte co heimu ilo meb wo lehcih sir mujab ivu emler aholerfiw pihokviw he zuznerco. Mev ta aha sekjid arihemi luketu gunel lewet madpa hov sal nuiw nuenzo. Besohu pagaj iffi fena nuw ror jiv ne fowomgo afdifah amsircur paab sugmesfij obuna unebefa ed. Taf egradleh teativit pi jo zantu gut ro owe vat gad puodi."
+  },
+  "apiKey": "ffa9141f35563e5a9f913a6c1fecea0bf48cd7b18cde92ee39a76a65912524df",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
