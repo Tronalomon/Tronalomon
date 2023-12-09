@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Graham",
+  "age": 30,
+  "address": {
+    "street": "Rujmo Pike",
+    "city": "Mihabji",
+    "state": "KS",
+    "zip": "71981"
+  },
+  "contact": {
+    "phone": "(214) 472-7116",
+    "servicePhone": "800764434"
+  },
+  "birthday": "1986-11-29T14:15:05.737Z",
+  "ip": "116.126.50.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Lektel bomivima nirinfo nuwju leli ice liimasin laso we be ne akukob ziket. Foitza teguf korimebur os bu semveg hakzipzo bohli vuhze jiuw tenan kopog acnirfed. Vud buwrutbu ukawi bokuwkif eco zojebud pansuz ah patis fojraome vijwe uze. Nuk ri cut in tibobsej emrih iratuoja fe cehejjo vebned lengiwu nemuzfo cik ovce kovezgo.",
+    "bio": "Wok iwag ic va ti to ilomazuk ektab datarjo tarpelsut pu soc. Ejuuwti fubofij dualiha dedbar ka cirumuza na addana com avo favpidni damzel oc doolupi awna maos. Pawbora oluawejav ofmarim dowcahhow bege hulih joz is adunu nuwzel idir odi zewijib pujah utu hatazowin pu sed. Uddetu nokot novre runpepaz pi tagodov wewuwe pazga guneke devogje osu wargu hibonpah ira."
+  },
+  "apiKey": "47c9f29893e6e8c1ab13ef29727750b7bd6c15da6d37cea288a479c56ac00123",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
