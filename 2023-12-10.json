@@ -1,0 +1,26 @@
+{
+  "name": "Dominic Buchanan",
+  "age": 27,
+  "address": {
+    "street": "Heco Square",
+    "city": "Fohame",
+    "state": "MO",
+    "zip": "35117"
+  },
+  "contact": {
+    "phone": "(520) 850-4003",
+    "servicePhone": "800914139"
+  },
+  "birthday": "1997-12-19T08:33:57.414Z",
+  "ip": "65.174.109.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Mugbij abe tih lep gigaztab vud zun sulhi niros eronu eskuoza alutuvi. Kem wewecgo likcim fo savaj ze lezpa jaehasa mowjiv lot paewo jadfozur. Votighuf piw izu andirod helruija raivaros pasahuv ro afe mi iv lesotpuv zikpe fav laf posku ret. Ejini zaowewu ogwafbic tion pokhadnos voh fas ca ed ipaceg be ewnuso lade jobu cuc. Lena irvappe nerechu vu fuji peeviki pojjomu wejenle buhcet zat wunuwiil roin aj izeamasoz wi halkupja gavpancab.",
+    "bio": "Rume zi lif sur etmopi fumulug jinin roge ighe nozdeub vo esa eruleb. Em dal guoga uc ci rute lup korpilru nu du def mumi awrog daonez. Bihripkuh ahi ofokudu ve zer dashapzu benraphi lofigoj hato rezo abu kowebaf abiwewmo ki kuda sednozis kiccu."
+  },
+  "apiKey": "834e3ffa101e916d7feb22ee1ca7964f84f87c1a6d53bc127d3f23f6b90e9dac",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
