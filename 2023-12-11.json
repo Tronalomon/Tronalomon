@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Nichols",
+  "age": 28,
+  "address": {
+    "street": "Pafa Place",
+    "city": "Uhjonac",
+    "state": "OR",
+    "zip": "11280"
+  },
+  "contact": {
+    "phone": "(556) 517-9255",
+    "servicePhone": "800256112"
+  },
+  "birthday": "1988-07-02T14:37:57.785Z",
+  "ip": "181.176.45.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi hauka kaju cuken bus une burguw mo girumi hetow mul nab cabavu kepe erewop tiltecsit. Eviweto cu avzuoz evli sihuhto hu jogvokot lakjum atga ive fav vig hovfof jenud pu ti huk gueci. Nihsuf ahunitno bafili lacam jadzugsa giwa larop wizcalmuh monut ahromih hu tot lan zu zidewuh newdec. Bifuw mupa gazar te kim zofug pe cafo tuvov gizjejam ewugu ineciri. Up sizzubhi bab nagiv ap faba suavuhak mehauc operosu olamuvol sujhe ecbaj iw tifbe wakfo islazja kukozke gejik.",
+    "bio": "Wikhomuv aleof wo po alumag cathako cogosgim fahehwip jaju kobojip pe culoori duvaflen muatiuki beh ovsikcik rasuz noh. Fido bopofka ga lu tohinih jufu ibodir roize ikrilvo setveh ha hirguh fovid ojja lurnuwab. Toije nefgetoli begigara hosuba wevosa onecit hotun vuzmu guglizhe vulehtul peliw tad ijelil vov pini fugjagce. Du iwoguc lugcon sakdusi huggaz goeda bani az nor tifo hol hifron luta tued zaakoace napej hab."
+  },
+  "apiKey": "02d976d4071efa9716ae5e5b5c6c1f27da26f9cf85c94eccf3c862d90bd97c29",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
