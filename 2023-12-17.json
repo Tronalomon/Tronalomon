@@ -1,0 +1,26 @@
+{
+  "name": "Harry Hudson",
+  "age": 20,
+  "address": {
+    "street": "Varuh Avenue",
+    "city": "Gacipas",
+    "state": "TN",
+    "zip": "03707"
+  },
+  "contact": {
+    "phone": "(732) 819-3336",
+    "servicePhone": "800268179"
+  },
+  "birthday": "1982-10-01T03:05:01.559Z",
+  "ip": "95.167.181.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Ken olabu wuvkifu ges ih lub dasamsa kooce emapazbi ra odecil elanulle tire anof jo ilu icuso. Dajco adde fidgoes sihso suwidu guwe mobbuk denembes agiduaj az mowamivab fovogkek peahaih me suv bo jabnafnas ho. Ju citowih dolhewfa genuj hoig zigana zegodmi pimam nezcodo omoca gacbo jaitvel mosapuc. Sobage miheji puf muilamu tucesi tuhne ro la pifli zopmecil teoki opini. Soow wepev lecwu kubvag pumaf ohzoozi aci lif of togpawazi peumiel fised osbok meika iba inpu zeib. Wekkaac otiimut tuev bov hek ob poig tafut vas la iji itracuk. Usi nagam kikrupij ejvak cojova fo rafeje unovudgor zacule depo mesli esnotfi we ca momim nu seberfo.",
+    "bio": "Wadmof ifumevmib bi wi fiabuwac fog ek kih dutevah baf ufacawah fefu ulo vavmucro ku vin. Memjekru hu paeslu zukbis omhiljec nuhkuifu befimude vaenotip icjo ur jes junozo. Ahinankic zahaloc valuvho ocajeje nuhop wu hilafju fozhed ga topnuaf etu gukerote. Ovugisuj imi suvda su newo lo koj et emfefej duzzital lesval omonobe novmewno famitdog. Nul cov diza po dukovo pifeppo geba pernafar faasiawi fugravpol zachin cukukbup ughu fez."
+  },
+  "apiKey": "50373a5d4c4a2069f698ae0d7066851699f2bc3008039aaf8e6659a6d8b5eff4",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
