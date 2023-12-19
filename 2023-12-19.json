@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Rodriguez",
+  "age": 25,
+  "address": {
+    "street": "Eboam Path",
+    "city": "Pucideg",
+    "state": "FL",
+    "zip": "10384"
+  },
+  "contact": {
+    "phone": "(809) 434-4970",
+    "servicePhone": "800691657"
+  },
+  "birthday": "2005-09-09T10:32:44.062Z",
+  "ip": "141.11.50.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Wic eb papsutej ra cim loeffe janijtec eb bosfip mib ozhig had. Be wucuhrer viveke tut ed jagamnih lomasop how fe fujawa no lo aromu ogvew. Ume lugokoc jubihfi ica idereg vuneh oru kivo farak fenaha ren beporasi wuwsaub lepul.",
+    "bio": "Jig rikvar ididotmot gagi zoknive unuwabwah jipep jezohfiz ecedav be vos iwo. Hipdihi fa boz ige ror orhot wihsed teuga tawjir hum bod ojzu zijdim. Wubgad ribkeh asno lup sev coji munfakceg jowbaju jarokecet no zi zobimik duv cebo. Ejlasep jeebi aviciflez bej gidlavzu vivkik ka zienbe ed ejujuvu ezlozaw lerofup gak."
+  },
+  "apiKey": "b309f572b48c3a94d230594c4ed41efcc743c4c763bf5f6ae46714921c72148b",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
