@@ -1,0 +1,26 @@
+{
+  "name": "Peter McCoy",
+  "age": 34,
+  "address": {
+    "street": "Viwuka Lane",
+    "city": "Icesobvom",
+    "state": "WV",
+    "zip": "39478"
+  },
+  "contact": {
+    "phone": "(373) 639-3147",
+    "servicePhone": "800991381"
+  },
+  "birthday": "1986-08-21T15:43:35.803Z",
+  "ip": "212.14.72.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Emocgo de zopga lowouw nirdos zivat tiwutfi pi evamire tu kawov lovipor rirup. Ogme ac aswu ruipdit jome ucusaw co eceronaj tekfinik sehgu pordepvu co. Wi ziznefra ijohazva cancaow rapokumo sul pud mopujoj zuna vocivi vetichu umo me zisubzuj sozo bu nace. Ga jumasoeze ilfe ag toedu uz zoodka purugnaj wewik ca libis mujeva si im tiorvib.",
+    "bio": "Cet vaz egdigse cus fuj pa ji pem zuhwa vuduro giozdis sej. Nuhozwe vim tepcida fomsok de det ho pekji nucuun cuzpek ob opihzoc daremume efiihecin aparfi fifi loslolri. Horekguh mipub cowoj ka ji uwa hi suzkaor bi ed mifi pe tupucu ru bacobrig uzahidoji."
+  },
+  "apiKey": "27f7e66178c191860a9a9213b06fb539d1c6737ee97397df133a2da2f95fcdc1",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
