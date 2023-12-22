@@ -1,0 +1,26 @@
+{
+  "name": "Catherine Matthews",
+  "age": 19,
+  "address": {
+    "street": "Pegpav Path",
+    "city": "Gezigbo",
+    "state": "AL",
+    "zip": "40030"
+  },
+  "contact": {
+    "phone": "(920) 495-5760",
+    "servicePhone": "800187121"
+  },
+  "birthday": "1967-01-07T06:17:14.830Z",
+  "ip": "41.155.205.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Bedzeh mebenaw upuwa ve kacu kohof ogo nukomole gaf zadpir cibe cefvo gid hehsupon goc vevnaz eta. Oz li rehefal afo mel goresku emuiboelu favteno akuf tudah fizuthur gij. Kenrubkat ziazfev beh umgufo suwefim ada bawe eketim va mipeg uz uwodimac ifi mig.",
+    "bio": "Sabwu sutnah lu soaspof upkol diro emu life oge cuib kidlij owsu kitet dores bani eb bedi akra. Ji bowowjo paket abiej jam bejla fanomno cig risu ipufoc zo so omakora taslop. Bifa nazcigad gisonwu siijozan zira va aj az zo alwusu nihu hilop kenlif pehzabi. Laoco afzav rarnonuto icaj fuztici ahuecu fadizip week bi rabba ijli livar nerin gejuti juas pudhonin gafukeb. Wiz etero rivkucha ovogiwu betefwi wusubzi sorguf gevawav jiktehcup vuwa loenno avsar zaag. Zac bobubmul licegzu jalviju dalu jof cik bo ko morki duwef ofupav."
+  },
+  "apiKey": "4102ce6364d14de3d65b063358ffb47a9db9ab77016e46838101358782eaabdd",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
