@@ -1,0 +1,26 @@
+{
+  "name": "Barry Stevens",
+  "age": 49,
+  "address": {
+    "street": "Pedi Grove",
+    "city": "Ivadejil",
+    "state": "NC",
+    "zip": "32724"
+  },
+  "contact": {
+    "phone": "(875) 211-9381",
+    "servicePhone": "800538611"
+  },
+  "birthday": "1978-07-29T05:31:21.127Z",
+  "ip": "125.34.53.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Hetladod wed cib taf zidoramo pimear juejo pocco ava ulipa bokwo mowik ihlopvob papekwef ot zufka vigosise. Cetiv jur vuded zaspascid na itatezen zafuv podjug mareec lik askul si tis. Vo enmew ujo bes okzu kucigegub zu azofij nagmul rurefcu ha las dejoh boverga zesgoti zawaszu vutuse tudtannec.",
+    "bio": "Fekekdu mij akom rushakbi muk ihne hita lo tos basevep pazdik illaloc hahelga deg ukirizzo jonzal kah. Rednufoz se ob abowim ma lu cel wonne ukaebo cahfid pikdakuwu luk vej je calpo gazave wuldotub evwev. Mef dupaovo gadmurfez zihheh gagper fak lo noczako puleuju we peposjij fodiod lozohmam."
+  },
+  "apiKey": "9d02945591fde504c6af3127d4aaa33c4f314d8051a9e1c39258cf9acccaa694",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
