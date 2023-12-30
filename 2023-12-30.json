@@ -1,0 +1,26 @@
+{
+  "name": "Mina Cobb",
+  "age": 43,
+  "address": {
+    "street": "Lamuhe Drive",
+    "city": "Aspuhwo",
+    "state": "NE",
+    "zip": "34545"
+  },
+  "contact": {
+    "phone": "(807) 910-1882",
+    "servicePhone": "800315948"
+  },
+  "birthday": "1962-05-12T13:11:57.087Z",
+  "ip": "131.189.2.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Hajvemap dunaret ti ifutifeg lu gecet gedop hikopwif bi penufde milupju niowanub. Ropegor piz fuomcum ge jo uwinu fusid vic wul idudo soavheh kajeifo catelas cot peogu jak gomo. Uwriktat etdatam kamro coremki ewa vowbepo mumal wi juhu ucedo na fovuz ges po nolumwib.",
+    "bio": "Ru ogiiwa gasdevuf badango zu ma iliwuma pogu valuloc ikipano uluuk vulsu lusdela ru ikza. Ukkaani cuzris roslefhih ni diwibed gokum keji diwojze midhukpe lirej lutus mout. Foeg udazeb vaszafpi ugdoar safwusu sanusi foci jizatgi udcocfa jaobu pevu zihwodtop rihfuce. Majbefhe ow co nehcar of vabte oro mo efo dajotcu tiv kasuzev tuvcobpob."
+  },
+  "apiKey": "6c1b34dcea84880a77493c98dee3e647638375df93d9812eecf58a0f8f2db6c9",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
