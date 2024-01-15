@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Simon",
+  "age": 51,
+  "address": {
+    "street": "Zakem Point",
+    "city": "Barnakji",
+    "state": "IN",
+    "zip": "51729"
+  },
+  "contact": {
+    "phone": "(712) 479-1994",
+    "servicePhone": "800422421"
+  },
+  "birthday": "1996-09-03T11:58:44.108Z",
+  "ip": "122.179.173.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Tag nav alaga agjo fepil aze jusji sangi ped cejob daitgib cuuge fuzfe zoje pigu. Voslior gi kewifa bofono sowe solilir ro nisek zuhojo norolpiv va jajkel. Cir odwe vugugat guf ki neleri akosahim oraalaan meledru obtil adabewon bovgat fueta lizup fi. Hik muc ar omojuhun vehus meji picep gueh faunaibo uf kod famerodo jegimfuk doreztil le uvameok tomnul el. Jumrippu ka ac fiv lerce zejmened fer imabiaj sujozar fajehwon zej davohci ukupoza dovfe es kof dicmom fomuto.",
+    "bio": "No jaek igodon odasawe kos buwuteza wodeciviz rongopwa zuvak vesofifi urwizje volwe wepidoz hecallo asunif bugle. Durkutuz of zu cu lej ciwe kilsirpa tu jelcule vuguki iwa kimpa wiziwnew ka. Lukpos guzhurus raego hokge diveme usu car rovbuza vo ocrut mov luvuv fe gencodo wi kafeste."
+  },
+  "apiKey": "405cdc07a9cddc901721d38a6a5e41f4d15dd03f651144d9eebaa0593eaa717c",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
