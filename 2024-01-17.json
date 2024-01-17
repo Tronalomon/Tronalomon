@@ -1,0 +1,26 @@
+{
+  "name": "Etta Day",
+  "age": 45,
+  "address": {
+    "street": "Juhej Plaza",
+    "city": "Pebjero",
+    "state": "AZ",
+    "zip": "00204"
+  },
+  "contact": {
+    "phone": "(355) 702-1582",
+    "servicePhone": "800134316"
+  },
+  "birthday": "2002-07-30T00:43:02.190Z",
+  "ip": "27.253.251.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne mum bep nofkun oddeb suha hozufuk kub johjazcir dijcebro nevuf hivke cer be gambuj zoona womofav vul. Zad pudpa cooh venoro ha kinji una taama gohnujo fowa ge tuojpuh ehebu. Agi lel cij iw ka bo poklut ji budsum nug kog kuh gu fis limjoj. Bim lellolow juhjam im wakurpu nu hi gif foviwe fu gupdodo icesa puhwadeje ji bat wi efirimote me.",
+    "bio": "Vek dogjeznon awigi fovu id dab sanusaz ko ne fazuwo somgoero alzuom we halemkaf gejca mun wuvumkik tog. El wec paw ef bog tin lormapo puhal go suosa kukom tod bijluk. Kecmeuha tawuhdi fab kizotlav upiuz na tagit nudu lasun adbed siuraje suw jophofrup miwu gaseji zam. Ewsipa waze gu pi fow udamakgu wojacem bu lu fujifu oseg finocda eciruca noubah. Hakeil id laterifi avael ine sapakap dirohoj ilburte rezu na foriwja la hijubo tofza. Cod nojjupse utahi kawjag uwulic ladu sino cutuje narif oj nom wa ehgal nopewa ro pur."
+  },
+  "apiKey": "902e97cf93127b68d810cd9ee176a955d6e586877755d391487bcda7722fa6d7",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
