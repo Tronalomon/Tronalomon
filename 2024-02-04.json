@@ -1,0 +1,26 @@
+{
+  "name": "Sue Rodriguez",
+  "age": 40,
+  "address": {
+    "street": "Widgiz Pike",
+    "city": "Zehubos",
+    "state": "MA",
+    "zip": "23992"
+  },
+  "contact": {
+    "phone": "(753) 808-6240",
+    "servicePhone": "800653277"
+  },
+  "birthday": "1982-02-09T17:57:09.974Z",
+  "ip": "161.169.192.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja pejte cuentus buvlad dizufeg lohbuhmel vof moshubnow giiwota gapmag heb ledo gaknen tip fojnarfo uwa mikceboz nawulpul. Huh up coutkam se etiavufih zo pi jipniva winsot zed cowbi zu kepvowcig ena. Com gawatvit ahauh bon efimahin ho kiizoudo ukegufo savibi ramo sinez sosospuh tew piwi wila tofaz.",
+    "bio": "Kugowjaj zevahkis tuvauf ifokew biva heve wa cukupad usigela ru gozohuk uswer me eznod. Gi ug bahkul big rup ica wipri zobe badom vehtagu hal avpuek obo mujkat fo tozmiima ez nog. Ga luh ve fadsi lunkuice jispenut cuh veg barajna awina mahiap henedha ohe ev luchej. Owaat tavu gihumnaj orfaza zojjij bijmadi wiza zagaziec der fik befawda he moes narnomja orzi vociwe."
+  },
+  "apiKey": "02bc8a945afbe55c4c1d4dd041cb1b314fb68b0140b0f343860c6f43b841fe7a",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
