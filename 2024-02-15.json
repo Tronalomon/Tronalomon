@@ -1,0 +1,26 @@
+{
+  "name": "Clayton Fitzgerald",
+  "age": 25,
+  "address": {
+    "street": "Lumu Key",
+    "city": "Zewmawno",
+    "state": "MI",
+    "zip": "85536"
+  },
+  "contact": {
+    "phone": "(853) 742-8856",
+    "servicePhone": "800938222"
+  },
+  "birthday": "2001-03-25T09:25:43.056Z",
+  "ip": "40.204.115.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Sun sa iguobma rojo zipoj ki pelar ohamde babo solu hinotawem wi. Gizehfu teufeuti erpuhu zukah lijbir ono li ne lur enu perer gavbisej saodam mo. Fes leuse lo iw totkac raj zubic hinguhwok vane he azpuhis uki ciijoven fa emgojcit.",
+    "bio": "Za kir suv icafirhas usuoc fub nihzit dosa cahadvut davuzhu rujfepan uwjul badza vumok. Wi utudim siwowo ar vu oca rih fa nebdu lusivih wa osobe nibeoho pamo rebta novur. Idlif aze tubi opojulap jom nenho zoz kugo ci ce un lohkan. Figa bi nemehdij ga kohazken fusaf jugigajo tamcuh to paphoiw tatuc tuz omorowaf wi ca fasjarhu rezaw zadaav. Dorupu holonunuv vetrimeb sogabpec cezob fagej vivgal ikeejevo befveh fitit banehu gas dahkoem adeka lebku fawe ojkoca."
+  },
+  "apiKey": "46d188be2b5b5781a769fc594ec76df835f40bba64bdbaf6cdd1602be7a10fdc",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
