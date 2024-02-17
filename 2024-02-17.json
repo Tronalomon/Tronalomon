@@ -1,0 +1,26 @@
+{
+  "name": "Evelyn Pittman",
+  "age": 56,
+  "address": {
+    "street": "Imaka Lane",
+    "city": "Egelidne",
+    "state": "AZ",
+    "zip": "90827"
+  },
+  "contact": {
+    "phone": "(343) 226-1681",
+    "servicePhone": "800382629"
+  },
+  "birthday": "1982-06-10T23:46:20.178Z",
+  "ip": "235.52.39.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Kedgot cawdem rec epa zogofa gevfeslun moroz gegho me sirefuw ujuev ognepoto. Tupbu risaz aj iwi lozobo ojopizap roja guw de kisebrac om otne. Com kir muwak jedbuf dujatsac takiw fu usoiw devawu ag ra gewniman fol tubanfus wovape jelonnef. Iz gac socajji tulsigas ker saztu lan wakos du paiwovu nubka juk oru muitciw ha da ferol.",
+    "bio": "Rojecju vive fezec molut muri johihcog zouhzid zi ke alihavlif faconwub afetevac cu dewonnep. Aluuc jus tehravob romol pebi ga bo wep zowlap vulu puw sigohi ifuhizus jerrub bofmerif. Bitmitpu ralasna kappe zugdajju jawto sat siuf lurfivig sun wiwgu gi rof zosi cibecbo pu lem usuteino."
+  },
+  "apiKey": "caf8d3a4c8ccf24008715985e2ff4ec780f92f744c329ce44d743813795b1606",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
