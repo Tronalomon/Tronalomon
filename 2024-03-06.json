@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Hart",
+  "age": 37,
+  "address": {
+    "street": "Zolo Parkway",
+    "city": "Piawazun",
+    "state": "KS",
+    "zip": "54094"
+  },
+  "contact": {
+    "phone": "(456) 266-8898",
+    "servicePhone": "800425759"
+  },
+  "birthday": "2000-05-15T10:41:05.311Z",
+  "ip": "86.6.133.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Fucaj bicsakge simejavaf irerukod apzul gawipo gi vubkobvuw ucaifa zol avufem lucasimi mi. Wiwgeslot sahar ruraji onakigro la ecafof pileha tibte kebet mi ufugte hudote. Fujevoj pupru fabu fev odu ega kut patrifamu bulekso kudadus ihe katbe udiwe we punpavge ve.",
+    "bio": "Kuhif his bewecarap jutzejosu nuvitfe te bigaprej oka kiwpo vecson susujod sibof reb ekgu jutibbi. Biwwunred dediwa puje pur wippej wug nonzagjul reebruh isam ame cod jaswipasa jacmazra uzmeej et rivsuzis. Cosnibac kanug fo nem pupwiupu udvovaki owmi dafmaw efetvep nu vuc il."
+  },
+  "apiKey": "2d9ae232c979abeb06a84d272857b3ee56ebcd752e2d74fa582b41f8a1570fc3",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
