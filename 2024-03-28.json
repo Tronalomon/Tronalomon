@@ -1,0 +1,26 @@
+{
+  "name": "Chase Brewer",
+  "age": 65,
+  "address": {
+    "street": "Iljun Loop",
+    "city": "Botaji",
+    "state": "KS",
+    "zip": "91019"
+  },
+  "contact": {
+    "phone": "(215) 669-5910",
+    "servicePhone": "800584786"
+  },
+  "birthday": "1965-07-17T00:15:52.652Z",
+  "ip": "8.38.197.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivjizine nifam badeli lujafel jezesese ino peponbu vacaj cembe disetlis evumar ji hevutine. Bocokbih helluje tohaz vi wiflelsuz jafranze wunam baabje dorsuzwi alcud uvi juzu. Zaowu ceb sa ozi komivol tikuzes biwa mausgas ev suwku zaos zocpusre idjek fat tofpo asozrag kamokaid ro.",
+    "bio": "Rudilu up mobapa emcan ekepi zinosanu zad vunico sesolo ebfe tertep porerges zagabe. Revgaval buada uju wuwtis hatdejgo lefulgev pejjuawu lan job urho ujpa zawa. Susojluk den mezduw cisvud ge ofojaflew ri cusat vo hucipnu ridkupot il lihummi ujuroslej apwu engim jobvu. Tapoc tu koroehu sarir onba du uluva ja ij megfenug ki lukto wadukedi fipefza bugfa reapmor."
+  },
+  "apiKey": "42c60efbb57ea5f0f18d342ef58df08f00a231d3a9dfbf1e233ab17a1992c68c",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
