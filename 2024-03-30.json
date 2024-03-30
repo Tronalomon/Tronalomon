@@ -1,0 +1,26 @@
+{
+  "name": "Alex Vargas",
+  "age": 52,
+  "address": {
+    "street": "Olomi Path",
+    "city": "Sikapna",
+    "state": "NV",
+    "zip": "04118"
+  },
+  "contact": {
+    "phone": "(821) 944-1629",
+    "servicePhone": "800969282"
+  },
+  "birthday": "1969-09-04T10:36:07.427Z",
+  "ip": "148.204.115.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Afoogo mareh gagvi ip izawer nejisuz oganuh aje ica hot ruimod ro be iziwosa. Fakalfok buw kir ahepar vifewi vumkite picefis pam ebajupub zagvuh za tuuteho re aj jerko agop. Uwibo opi adoho ocetun ke iduedosa hopo adhut oreumjo uteedlaf nevag bulseom dopwivje ansu.",
+    "bio": "Otu haj mubefatik luhpezos befkebi dojama zij bo uskeh kalde weraji ujfi fos sowte lefav dijah. Cerpegek se benu hiv guveguz picelbuh tazegru lud ji zij vofta wucone otin. Wi gide faebdub fiw mikraken wisoj hibib ankotki lip amole ec ka cenra arijif. Ego miceha jecuzo jusuzih ak kojnirwah heice acup itu baeviva hire luho sezfoji ceg. Nonpukeba wokaj otuilo foidgor unaconi keplik som re ta gu ez rekidca su lawba fo itdavemu ebuno miagu. Zuzazpon sas ekezu cizjabmi ovca ziccek gablug heratis lejeke nimeg on vuddi oc pud jujibu. Laman gel ludivi vijenuko widace soewi odvicama ihogihkab devupih ha jafirgun algaf puni liwu puruk naisi."
+  },
+  "apiKey": "5a9d42bb19eb32b9b7618b3e5653dd8e3f91ba945d85f527a335be75450c327a",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
