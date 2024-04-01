@@ -1,0 +1,26 @@
+{
+  "name": "Marc Obrien",
+  "age": 26,
+  "address": {
+    "street": "Tesnul Heights",
+    "city": "Lolopiaw",
+    "state": "DE",
+    "zip": "92623"
+  },
+  "contact": {
+    "phone": "(429) 837-1519",
+    "servicePhone": "800878288"
+  },
+  "birthday": "1972-08-09T20:26:38.947Z",
+  "ip": "40.10.240.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovowilde al dipekosog lojubahe egabaho owugaz mowacla pov jemah ewuopokum du fi vi. Amil muw rafre cudzo nuepigir fafonenu guj decoraje gikjewi vukoavo utifa hutave aga cojjub ci lihcaj cic lelet. Birar jum wewzo adnoji seom goful pihi melib jebepevi foj kuasozi raj wodunhaw fuhacomu.",
+    "bio": "Su zi harbu zewgiz mipco at gi wobkamel picla sufcilbe coce nin upde wo zertotmiz mucgogge. Zeh tup ro nuhdemnup dej kuc arozumo erda dudfadek ohale fi lezocom ubufolag. Avwothe hotbot ededepva ulmo hichubzot molmi cup jijmaho cetruf jijlova une sezohu ber zo zegpoj fe pu nizhofmun. Jucuma bofekkij dene ohcabene obirozoc matoece pipe ese uwiumuz sizena ge obepabi utiimuja ro bitkevzar."
+  },
+  "apiKey": "b24f14c70166b6da0d69536022612de7c80fdf23678a3c1dcf43c8bd4b98d590",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
