@@ -1,0 +1,26 @@
+{
+  "name": "Margaret Thornton",
+  "age": 54,
+  "address": {
+    "street": "Cuwvo Glen",
+    "city": "Hajholbu",
+    "state": "NV",
+    "zip": "91747"
+  },
+  "contact": {
+    "phone": "(235) 790-6256",
+    "servicePhone": "800583314"
+  },
+  "birthday": "1978-02-20T13:52:50.345Z",
+  "ip": "178.143.109.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Iwoeti da egi iwri vir gugwa mep jeipudog upbeh nilifmiz tuppicnev haj. Narhu no ijzu kebod afte zus ohmoj sicakuku ceogo ri riicda doczivwef kulher wuhfez vub. Wiocopo hawgojmid za re fejiri dahubu nuli hakez orige lit muddaja ezgo nu cauga relca relad sud.",
+    "bio": "Tinu dadevgu rakpokes be ib melrot nogeic ebgoad bogfo nuh juj difbe kumbu ampuita le. Vahineto la lumdac omiov ekefomhon hojuc irgaphu ducwapu cunod iv wis kema obokiji ineufujeh bosta fajil otsiz bu. Kurpo biilsu juf wiibo osrauh vuasnu koco womobup po nuse hozloja kir ej no ro."
+  },
+  "apiKey": "3e005ad16775307a51de144b85adacca8bbfd9608433eb87795a187f8638befe",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
