@@ -1,0 +1,26 @@
+{
+  "name": "Lida Floyd",
+  "age": 30,
+  "address": {
+    "street": "Iroetu Key",
+    "city": "Henabvo",
+    "state": "IN",
+    "zip": "40918"
+  },
+  "contact": {
+    "phone": "(339) 278-9766",
+    "servicePhone": "800441968"
+  },
+  "birthday": "1989-02-23T01:33:35.275Z",
+  "ip": "162.50.119.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Wopuhit sutvavzo hemehil wajzaruh ajhocca okevupulo po junluvuw hesicfu vadtuv wad li dalolci sejwuz tep viep dinavbo mudfuhbe. We le bifemid zeb pemsi vivej gicne omalo wesaf bu te kev ewa gelpu. Fumdowgu tu macvuw simkih fiagib ir orcep zi nip jaf reku jawji firuruni hael etrepbir uvgu.",
+    "bio": "Nifef ruzopuv jejbi fozova sac mu gec wevi paarapo sobca ucvubmen nak. Ilka megfozfu fe egenape forwimuno pajeso nodsi pagmidip ko roh wetevico gujudsu peb tir. Bus pus bunde hetekoufe ju sikda vaugaper ojaafef bobo hephob raudume sedizgi akocem dogdejus."
+  },
+  "apiKey": "fe7e3acd02ce010dc3a675b17702b9b5e7e52960cb3ffd6d3c2c85e1452f6efd",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
