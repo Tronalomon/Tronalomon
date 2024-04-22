@@ -1,0 +1,26 @@
+{
+  "name": "Eric Guzman",
+  "age": 47,
+  "address": {
+    "street": "Belu Avenue",
+    "city": "Umegojdaz",
+    "state": "FL",
+    "zip": "18156"
+  },
+  "contact": {
+    "phone": "(987) 234-2388",
+    "servicePhone": "800579287"
+  },
+  "birthday": "1963-08-28T08:45:22.116Z",
+  "ip": "225.103.155.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze geb hilata ugelezo riwur lod ezpo vag foz fi zez soc. Vur gu pi fopuad zu ezu izaoz refi jopojalad bu igvepi jafdemeg muziscod. Gom wazmec gemishez du mahi awarvo emvow bigmekwig dep ozbuw ko turerev sezbozwo bickiv pu recu wok mira.",
+    "bio": "Tezub ede sodkise pefkev ajoga upeceblun buvepi weczof vusogti gutru nab upenuklil onesomi ruc ad zu ujeg. Johmapih kulfil ku vodnuhsad pi ni raznabu izafortih fije ginribuso himi nekeduig teome da. Udtep arepa rij otopetu cug ge jus fuluj fuela kod buw wowahu hideg kivenlab aramut zovob akvoz uwi. Kugaiku ti wujle epbes ihrilgu zazetwa ojaebu honmidka api tez zevo sor ub joemivo. Es muegeb ufpozi rufof lifubu murta lozve zerucuj wiffun oh dupi meepi ezuju sacu jupujpo nebuvago. Fer pahup eletuw ho fabteper pet cowdopru hiwma netit wasebe ibiipo sogwowok gof esofa lieradu nawmogmuf cuc. Keku ubovekcu da dib jimde esuena me koriza decfu zaj tewiw azbadis jezos bingu dez cobkajhi bemwozi."
+  },
+  "apiKey": "09302f1f383640f43dddf85d89228b6a4809fdc4b0b1d314c0eed34e95fdcc47",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
