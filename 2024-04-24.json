@@ -1,0 +1,26 @@
+{
+  "name": "Jay Carr",
+  "age": 39,
+  "address": {
+    "street": "Gidok Drive",
+    "city": "Vumbodri",
+    "state": "NM",
+    "zip": "49025"
+  },
+  "contact": {
+    "phone": "(987) 536-1614",
+    "servicePhone": "800585662"
+  },
+  "birthday": "2001-05-30T19:03:10.610Z",
+  "ip": "177.29.161.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Jim fimnejwoz vo tistatej re op pum bilut fid wuhur ufevuc ezdic kulticew kuj kocalum. La ucnela popiccub orles tozasno jo iw jicu zi sauhwo ugelis ahriw zi foja gi igoekmem. Habujjib wa diseago kucosus kivefuog cabpaom ezanna kafu casze lereni pu habsawal. Ej abugazot ritfecil nop fov nevekis dohjel ri bope sabnaavu kipolig vur sozuvud se sel. Bomo wec wip tef pevdahimo fufi hi ikfi fu tuspuv eg hetmejjid kojtet wajuca rabo kuviwwo. Abwojaro wimarosim jo bip kibaha zofi jib fihasji ca saggu ruip nikde duarura buv.",
+    "bio": "Mi hevode mag zefi hohvior jevbahaw wipmotu vod hi asjanuw ofoudo sam ape sefigok jafpo nofpitmek diotu. Sotubhaw bojwewu wew diara maolipi uwerufa cu lawzuroba zinha sawic bug nuzbip culabodu guvkeluw ru pej nusipuna. Va zigagpip diciblol jabo nu pu na jazwez vow zekku sirwuwa ufojepjuw pi po. Ope ofubi selwujlu buvgepca at dusose gokguz kejhazsu ne fe le keksa."
+  },
+  "apiKey": "778f6bd271ad344de95ede787d98c7324cb67a454ee86860a15f09da521bebb8",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
